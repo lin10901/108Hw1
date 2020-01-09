@@ -8,3 +8,10 @@ if "N"
   當預測值不為SN時值會減一
 加減後會依值進行進位等調整,miss數會計算加一
 
+
+
+
+
+執行結果
+
+![image](https://github.com/lin10901/108Hw1/blob/master/%E8%A8%BB%E8%A7%A3%202020-01-09%20164626.png)
